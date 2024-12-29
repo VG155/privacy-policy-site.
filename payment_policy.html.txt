@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Πολιτική Απορρήτου & Τρόποι Πληρωμής</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #4CAF50;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 10px 0;
+            background: #f1f1f1;
+            color: #333;
+        }
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Πολιτική Απορρήτου & Τρόποι Πληρωμής</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Πολιτική Απορρήτου</h2>
+            <p>Η εταιρεία μας δεσμεύεται να προστατεύει τα προσωπικά σας δεδομένα. Όλες οι πληροφορίες που συλλέγουμε χρησιμοποιούνται αποκλειστικά για την εκτέλεση των παραγγελιών και τη βελτίωση των υπηρεσιών μας.</p>
+            <p>Τα δεδομένα σας δεν κοινοποιούνται σε τρίτους χωρίς τη ρητή σας συγκατάθεση, εκτός αν απαιτείται από το νόμο.</p>
+        </section>
+        <section>
+            <h2>Τρόποι Πληρωμής</h2>
+            <ul>
+                <li><strong>Πιστωτική/Χρεωστική Κάρτα:</strong> Ασφαλείς συναλλαγές μέσω κρυπτογραφημένης σύνδεσης.</li>
+                <li><strong>Τραπεζική Κατάθεση:</strong> Πληρωμή μέσω τραπεζικού λογαριασμού.</li>
+                <li><strong>Αντικαταβολή:</strong> Πληρωμή κατά την παραλαβή του προϊόντος.</li>
+                <li><strong>PayPal:</strong> Γρήγορες και ασφαλείς πληρωμές μέσω PayPal.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Ηλεκτρονική Επιχείρηση Φωτογραφικών Μηχανών. Όλα τα δικαιώματα διατηρούνται.</p>
+    </footer>
+</body>
+</html>
